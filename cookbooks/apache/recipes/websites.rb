@@ -1,5 +1,5 @@
 file 'default www' do
-	path '/var/www/index.html'
+	path '/var/www/html/index.html'
 	content 'ZDRASTI!!'
 
 end
