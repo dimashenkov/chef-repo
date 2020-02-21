@@ -10,5 +10,11 @@ pipeline {
       }
     }
 
+    stage('test') {
+      steps {
+        sleep 5
+      }
+    }
+
   }
 }
